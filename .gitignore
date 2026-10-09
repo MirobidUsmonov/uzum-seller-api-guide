@@ -1,0 +1,9 @@
+# Kalitlar va maxfiy ma'lumot hech qachon repozitoriyga tushmasin
+.env
+.env.*
+*.key
+.uzum_key
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
